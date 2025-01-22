@@ -27,4 +27,21 @@ To run the code in this repository, you will need:
 - Python >= 3.10  
 - Pytorch 
 
+## Links
+
+Model weights: https://drive.google.com/drive/folders/1dMgDxQBBu96BkU__pcSTETwHDre_CNOe?usp=sharing 
+
+## Citation 
+
+If you use this code or dataset in your research, please cite:
+
+@article{your_paper,  
+  title={Your Paper Title},  
+  author={Your Name and Co-Authors},  
+  journal={Journal/Conference Name},  
+  year={Year},  
+  pages={XX-XX},  
+  doi={DOI Link}  
+}  
+
 
