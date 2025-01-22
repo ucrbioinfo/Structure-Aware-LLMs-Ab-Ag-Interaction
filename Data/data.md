@@ -15,14 +15,17 @@
 
 
 	•	Contact Determination:
-		•	Amino acids are considered in contact if the distance between their alpha carbon ($C_\alpha$) atoms is < 8Å, per CASP guidelines \cite{ezkurdia2009assessment, rao2019evaluating}.
+		•	Amino acids are considered in contact if the distance between their alpha carbon C_alpha atoms is < 8Å, per CASP guidelines.
 	•	Antibody Structures:
 		•	Dataset contained 10,386 antibodies; 2,237 had experimentally resolved 3D structures in PDB.
-		•	Missing structures were predicted using ESMFold \cite{lin2023evolutionary}.
+		•	Missing structures were predicted using ESMFold.
 	•	Contact Map Generation:
-		•	For each antibody, pairwise $C_\alpha$ distances were computed.
-		•	Generated a binary $|S| \times |S|$ contact map for each antibody $S$, where $(i, j) = 1$ if residues $S[i]$ and $S[j]$ were in contact, otherwise $(i, j) = 0$.
+		•	For each antibody, pairwise C_alpha distances were computed.
+		•	Generated a binary |S| x |S| contact map for each antibody S, where (i, j) = 1 if residues S[i] and S[j] were in contact, otherwise (i, j) = 0.
 		•	Process applied to both heavy and light chains of all antibodies.
 
 
 # Processed Dataset Link: 
+
+
+![alt text](image.png)
