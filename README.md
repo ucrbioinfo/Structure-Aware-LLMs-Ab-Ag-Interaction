@@ -30,7 +30,7 @@ To run the code in this repository, you will need:
 
 ## Citation 
 
-/*If you use this code or dataset in your research, please cite:
+If you use this code or dataset in your research, please cite:
 
 @article{your_paper,  
   title={Your Paper Title},  
@@ -39,6 +39,6 @@ To run the code in this repository, you will need:
   year={Year},  
   pages={XX-XX},  
   doi={DOI Link}  
-} */
+} 
 
 
